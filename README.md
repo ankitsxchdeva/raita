@@ -1,2 +1,5 @@
-# raita
-open source files for the raita macropad
+# Raita
+
+| Hardware  |            |
+| --------------------  | ---------- |
+| Screws          | M2.5 x 0.45 mm Thread, 8mm Long  |
