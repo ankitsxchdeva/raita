@@ -1,8 +1,9 @@
 # Raita
 
-[EC Build instructions]()
-[Firmware]()
-[Firmware flashing instructions]()
+[EC Build instructions](https://github.com/ankitsxchdeva/raita/blob/main/EC-build-guide.md)
+
+[Firmware](https://github.com/ankitsxchdeva/raita-firmware) *flashing instructions coming soon*
+
 
 | Hardware  | Link    |   Quantity |
 | --------------------  | ---------- | --------- |

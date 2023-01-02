@@ -1,0 +1,3 @@
+[submodule "raita-firmware"]
+	path = raita-firmware
+	url = git@github.com:ankitsxchdeva/raita-firmware.git
